@@ -14,7 +14,7 @@ os.chdir() # changes your directory. remember on windows to use \\ (double backs
 
 !git add filename.py
 
-!git commit filename.py -m 'your message here'
+!git commit filename.py -m "your message here"
 
 !git pull
 
